@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JanelaRelativeActivity">
+
+    <TextView
+        android:id="@+id/txtCompA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/componente_a"
+        android:textAllCaps="false"
+        android:textColor="#14CA6C"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        />
+
+    <TextView
+        android:id="@+id/txtCompB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtCompA"
+        android:text="@string/componente_b"
+        android:textAllCaps="false"
+        android:textColor="#7C0AE1"
+        android:textSize="30sp"
+        android:textStyle="italic"
+
+        />
+
+    <TextView
+        android:id="@+id/txtCompC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtCompA"
+        android:text="@string/componente_c"
+        android:textAllCaps="false"
+        android:textColor="#0B27C5"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/txtCompD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+android:layout_toRightOf="@id/txtCompC"
+        android:layout_below="@id/txtCompB"
+        android:text="@string/componente_d"
+        android:textAllCaps="false"
+        android:textColor="#13DCF6"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>
