@@ -3,13 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/background.xml" value="0.2085" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/borda_botao.xml" value="0.1905" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/botao_desenho.xml" value="0.259" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/coxinha.xml" value="0.1905" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.1575" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/ic_baseline_mail_outline.xml" value="0.2245" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/inner_layout.xml" value="0.25" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_componentes_layout.xml" value="0.22393162393162394" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_coordinator_layout.xml" value="0.22393162393162394" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_frame_layout.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_relative_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/login_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/menu_layout.xml" value="0.22393162393162394" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/splash_layout.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/table_layout.xml" value="0.27291666666666664" />
       </map>
