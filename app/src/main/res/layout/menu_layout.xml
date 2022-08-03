@@ -4,9 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/botao_desenho"
+    android:background="@drawable/background_gradient"
     android:orientation="vertical"
     tools:context=".MenuActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="Skout"
+        android:shadowRadius="5"
+        android:textColor="#673AB7"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/ubuntu_regular" />
+    <View
+        android:layout_width="150dp"
+        android:layout_height="1dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#aa333333"
+        android:layout_marginTop="3dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -144,7 +162,9 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
-    </LinearLayout>    <LinearLayout
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
