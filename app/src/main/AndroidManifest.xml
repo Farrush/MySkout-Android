@@ -24,7 +24,14 @@
             android:exported="false" />
         <activity
             android:name=".RecrutadoresActivity"
-            android:exported="false" />
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name=".VagasActivity"
             android:exported="false" />
@@ -60,13 +67,9 @@
             android:theme="@style/temaSemBarra" />
         <activity
             android:name=".SplashActivity"
-            android:exported="true"
+            android:exported="false"
             android:theme="@style/temaSemBarra">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
