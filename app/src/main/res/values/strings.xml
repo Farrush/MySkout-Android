@@ -9,4 +9,6 @@
     <string name="insira_seu_e_mail">Insira seu e-mail</string>
     <string name="imagem_principal">Imagem principal</string>
     <string name="msgNavBottomIcon">Cliquei no botão de navegação</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
